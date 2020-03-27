@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>Energistics.Diabetes</packageId>
+  <name>Diabetes</name>
+  <author>Energistics</author>
+  <description></description>
+</ModMetaData>
